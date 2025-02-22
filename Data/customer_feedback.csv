@@ -1,0 +1,101 @@
+feedback_id,customer_id,rating,feedback_text,feedback_date
+FBK5000,CUST1068,4,Very helpful customer support.,2023-03-15
+FBK5001,CUST1039,2,Frustrating mobile app experience!,2023-04-09
+FBK5002,CUST1080,3,Nothing special.,2023-01-08
+FBK5003,CUST1028,2,Unexpected charges!,2023-06-20
+FBK5004,CUST1064,4,Fantastic mobile app!,2023-09-12
+FBK5005,CUST1046,4,Fantastic mobile app!,2023-07-24
+FBK5006,CUST1059,3,Some delays but overall okay.,2023-03-27
+FBK5007,CUST1086,4,Very responsive support team!,2023-04-08
+FBK5008,CUST1003,4,Loved the credit card offers!,2023-05-07
+FBK5009,CUST1053,4,Great customer relationship!,2023-08-28
+FBK5010,CUST1004,5,Highly satisfied!,2023-02-04
+FBK5011,CUST1004,3,Some delays but overall okay.,2023-02-01
+FBK5012,CUST1068,2,Very slow processing!,2023-03-28
+FBK5013,CUST1080,4,Great customer relationship!,2023-01-30
+FBK5014,CUST1073,1,Loan approval process too slow!,2023-08-08
+FBK5015,CUST1092,5,No hassles in transactions!,2023-03-26
+FBK5016,CUST1071,2,Unexpected transaction failures!,2023-04-24
+FBK5017,CUST1066,1,Frustrating mobile app experience!,2023-03-24
+FBK5018,CUST1076,5,Great banking experience!,2023-04-25
+FBK5019,CUST1010,5,Great banking experience!,2023-07-05
+FBK5020,CUST1032,3,Not bad but not great.,2023-03-27
+FBK5021,CUST1056,4,Very helpful customer support.,2023-03-18
+FBK5022,CUST1001,5,Great banking experience!,2023-02-20
+FBK5023,CUST1016,1,Unresponsive support!,2023-06-10
+FBK5024,CUST1003,2,Unexpected transaction failures!,2023-04-24
+FBK5025,CUST1003,5,Super easy to use!,2023-04-29
+FBK5026,CUST1009,2,Loan approval process too slow!,2023-06-20
+FBK5027,CUST1032,4,Loved the credit card offers!,2023-03-22
+FBK5028,CUST1065,1,Very dissatisfied!,2023-08-30
+FBK5029,CUST1028,4,Quick fund transfers!,2023-06-15
+FBK5030,CUST1009,4,No hassles in transactions!,2023-06-18
+FBK5031,CUST1059,4,Great customer relationship!,2023-03-15
+FBK5032,CUST1091,5,Best digital banking experience!,2023-09-06
+FBK5033,CUST1053,2,Difficult to reach customer care!,2023-08-28
+FBK5034,CUST1071,5,Fast & secure services!,2023-04-10
+FBK5035,CUST1026,2,Poor customer service!,2023-04-26
+FBK5036,CUST1059,3,Could be better.,2023-03-28
+FBK5037,CUST1037,5,Amazing loan process!,2023-02-02
+FBK5038,CUST1054,5,Smooth transactions!,2023-04-18
+FBK5039,CUST1026,1,Loan approval process too slow!,2023-04-19
+FBK5040,CUST1056,2,Security concerns!,2023-03-10
+FBK5041,CUST1076,2,Loan approval process too slow!,2023-04-18
+FBK5042,CUST1056,4,Fast & secure services!,2023-03-30
+FBK5043,CUST1016,4,Smooth transactions!,2023-06-14
+FBK5044,CUST1018,4,Highly satisfied!,2023-04-22
+FBK5045,CUST1059,5,Very responsive support team!,2023-03-25
+FBK5046,CUST1000,4,Excellent service!,2023-10-21
+FBK5047,CUST1099,2,Unreliable transaction processing!,2023-09-21
+FBK5048,CUST1032,4,Fantastic mobile app!,2023-04-08
+FBK5049,CUST1050,1,Frustrating mobile app experience!,2023-02-16
+FBK5050,CUST1040,1,Had a bad experience!,2023-06-22
+FBK5051,CUST1091,3,Satisfactory banking experience.,2023-08-23
+FBK5052,CUST1041,2,Unexpected charges!,2023-06-25
+FBK5053,CUST1076,3,Decent services but long processing time.,2023-04-20
+FBK5054,CUST1046,4,Great banking experience!,2023-07-18
+FBK5055,CUST1024,2,Unresponsive support!,2023-05-21
+FBK5056,CUST1026,3,Support was helpful but slow.,2023-04-12
+FBK5057,CUST1049,5,No hassles in transactions!,2023-06-25
+FBK5058,CUST1088,5,No hassles in transactions!,2023-02-21
+FBK5059,CUST1050,4,Highly satisfied!,2023-02-17
+FBK5060,CUST1082,5,Excellent service!,2023-03-19
+FBK5061,CUST1080,5,Super easy to use!,2023-01-08
+FBK5062,CUST1001,4,Best digital banking experience!,2023-02-24
+FBK5063,CUST1091,4,Smooth transactions!,2023-08-15
+FBK5064,CUST1066,1,Frustrating mobile app experience!,2023-03-23
+FBK5065,CUST1059,3,"Normal experience, nothing extraordinary.",2023-03-13
+FBK5066,CUST1063,5,Very responsive support team!,2023-03-14
+FBK5067,CUST1037,3,Service is okay.,2023-02-13
+FBK5068,CUST1039,3,"Normal experience, nothing extraordinary.",2023-04-17
+FBK5069,CUST1046,5,Highly satisfied!,2023-08-12
+FBK5070,CUST1026,1,Had a bad experience!,2023-04-21
+FBK5071,CUST1039,3,Nothing special.,2023-04-30
+FBK5072,CUST1036,5,Quick fund transfers!,2023-03-02
+FBK5073,CUST1065,1,Unexpected transaction failures!,2023-08-18
+FBK5074,CUST1018,4,Highly satisfied!,2023-04-06
+FBK5075,CUST1041,5,Great customer relationship!,2023-06-24
+FBK5076,CUST1000,2,Security concerns!,2023-10-19
+FBK5077,CUST1099,3,Mixed experience with customer service.,2023-09-25
+FBK5078,CUST1049,1,Loan approval process too slow!,2023-06-28
+FBK5079,CUST1029,3,"Normal experience, nothing extraordinary.",2023-02-05
+FBK5080,CUST1036,4,Fast & secure services!,2023-03-15
+FBK5081,CUST1091,4,Smooth transactions!,2023-08-27
+FBK5082,CUST1046,2,Very dissatisfied!,2023-07-31
+FBK5083,CUST1024,4,Quick fund transfers!,2023-06-06
+FBK5084,CUST1019,4,Very helpful customer support.,2023-09-14
+FBK5085,CUST1032,4,Great customer relationship!,2023-04-01
+FBK5086,CUST1018,1,Unexpected charges!,2023-04-15
+FBK5087,CUST1038,5,Fantastic mobile app!,2023-01-21
+FBK5088,CUST1068,4,Great banking experience!,2023-03-27
+FBK5089,CUST1036,3,Could be better.,2023-03-11
+FBK5090,CUST1086,3,"Transactions work, but interface is outdated.",2023-04-02
+FBK5091,CUST1040,5,Very responsive support team!,2023-06-02
+FBK5092,CUST1039,4,Super easy to use!,2023-04-23
+FBK5093,CUST1026,2,Very slow processing!,2023-04-06
+FBK5094,CUST1088,4,Fast & secure services!,2023-02-22
+FBK5095,CUST1099,4,Amazing loan process!,2023-10-07
+FBK5096,CUST1035,2,Unreliable transaction processing!,2023-07-11
+FBK5097,CUST1063,3,No major issues but room for improvement.,2023-03-05
+FBK5098,CUST1038,3,Could be better.,2023-01-11
+FBK5099,CUST1003,5,Amazing loan process!,2023-04-29
