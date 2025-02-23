@@ -1,0 +1,9 @@
+{
+	"name": "CAPSTONEHARSHIDAADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bf6759e8-c516-43ab-bcdc-041a0a4368e6",
+		"tenantId": "c268c96f-650a-4ce5-80eb-22138f0c50b4"
+	}
+}
